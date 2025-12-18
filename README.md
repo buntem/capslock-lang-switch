@@ -62,7 +62,7 @@ Press Enter.
 2. Target:
 
 ```
-"C:\Program Files\AutoHotkey\v2\AutoHotkey64.exe" "C:\path\to\capslock-lang-switch.ahk"
+"C:\path\to\capslock-lang-switch.ahk"
 ```
 
 > Adjust the path to match your script location.
